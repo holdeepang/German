@@ -1,1 +1,3 @@
-- die Apotheke = pharmacy <br>
+- die Apotheke = pharmacy
+- die Speisekarte = the menu
+- die Rechnung = the receipt
