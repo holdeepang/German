@@ -1,1 +1,1 @@
-die Apotheke = pharmacy <br>
+- die Apotheke = pharmacy <br>
