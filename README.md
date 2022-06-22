@@ -1,4 +1,14 @@
 # Learn German
+
+## Artikel Searcher
+- [Article in German](https://der-artikel.de/)
+
+## Verb Conjugation
+- [German Conjugator](https://www.verbix.com/languages/german)
+
+## Dictionary
+- [Leo.org](https://dict.leo.org/englisch-deutsch/)
+
 ## Some online resources to help learn, consolidate and practice German language
 
 - [German Grammer](https://www.german-grammar.de/grammar/content/english_german_table_of_content.htm)
