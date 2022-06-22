@@ -1,3 +1,14 @@
 - die Apotheke = pharmacy
 - die Speisekarte = the menu
 - die Rechnung = the receipt
+> **Gern geschehen = you are welcome**
+- der Kanzler / die Kanzlerin = Chancellor
+> **Freut mich = Nice to meet you**
+- die Eule = Owl
+- der Elefant = Elephant 
+- der Bär = Bear
+- die Maus = mouse
+- Polizist / Polizistin = Police Offer
+- Künstler / Künstlerin = Artist
+- Anwalt / Anwältin = Lawyer 
+- Arzt / Ärztin = Doctor
