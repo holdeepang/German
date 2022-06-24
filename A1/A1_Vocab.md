@@ -1,3 +1,4 @@
+- prost = cheers
 - die Apotheke = pharmacy
 - die Speisekarte = the menu
 - die Rechnung = the receipt
@@ -8,7 +9,30 @@
 - der Elefant = Elephant 
 - der Bär = Bear
 - die Maus = mouse
+- Schauspieler / Schauspielerin = Actor / Actress
 - Polizist / Polizistin = Police Offer
 - Künstler / Künstlerin = Artist
 - Anwalt / Anwältin = Lawyer 
 - Arzt / Ärztin = Doctor
+<br>
+
+- sonnig = sunny
+- bewölkt = cloudy
+- neblig = foggy
+- Schach = chess
+- der Frühling = Spring
+> **der Sommer = Summer**<br>
+> **der Herbst = Autumn**<br>
+> **der Winter = Winter**<br>
+> **der Regenschirm = umbrella**<br>
+- die Wasserflasche = water bottle
+- windig = windy
+- es regnet = it rains
+- es schneit = it snows
+- der Schal = scarf
+- stark = hard / very <br>
+eg: es regnet stark = it is raining hard<br>
+Regnet es sehr stark ? = Is it raining hard ?
+- wandern = hike<br>
+Wanderst du oft ? = Do you hike often ?
+- die Sonnencreme = sunscreen
