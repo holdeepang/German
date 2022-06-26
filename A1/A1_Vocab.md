@@ -75,7 +75,7 @@ eg: Bis wann ist das Restaurant geschlossen ? = Untill when is the restaurant cl
 - das Bett = Bed
 - das Badezimmer = Bathroom
 - das Bücherregal = Bookshelf
-- das Regal = Shelf
+- das Regal = Shelf<br>
 
 - ein bisschen = a little bit
 - hässlich = ugly
