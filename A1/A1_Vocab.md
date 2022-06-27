@@ -88,3 +88,27 @@ eg: Bis wann ist das Restaurant geschlossen ? = Untill when is the restaurant cl
 - dunkel = dark
 - sauber = clean
 - schmutzig = dirty
+<br>
+
+- das Kaufhaus = Department Store<br>
+eg: Wann gehst du ins Kaufhaus ? = When are you going to the department store ?<br>
+- das Jobinterview = Job Interview<br>
+eg: Ich brauche neue Kleidung für das Jobinterview<br>
+- aufgeregt = Excited
+- nervös = nervous
+- das Sakko = Suit Jacket
+- das Hemd = Shirt
+- das Kleid = Dress
+- das T-shirt = T-shirt
+- die Schuhe = Shoes
+- die Jeans = Jeans (pl)
+- der Pullover = Sweater
+- passen = match / suit (v)<br>
+eg: Schade, das Hemd passt du nicht = Too bad, the shirt doesn't suit you<br>
+eg: Ja, das Sakko passt, danke ! = Yes, the suit jacket suits, thank you ! <br>
+- die Größe = the size (of clothing)<br>
+eg: Entschuldigung, welche Größe brauchen Sie ? = Excuse me, which size do you need ?<br>
+- der Aufzug = elevator / lift
+- die Toiletten = Toilets (pl)
+- schick = stylish
+
