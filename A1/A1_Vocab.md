@@ -111,4 +111,7 @@ eg: Entschuldigung, welche Größe brauchen Sie ? = Excuse me, which size do you
 - der Aufzug = elevator / lift
 - die Toiletten = Toilets (pl)
 - schick = stylish
+<br>
 
+- die Fahrkarte (+ von / nach) = Tickets 
+- die Hin-und-Rückfahrt = Round trip ticket
