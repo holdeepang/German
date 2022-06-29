@@ -16,3 +16,4 @@
 - [Online German Exercises](https://www.germancenter-st.com/en/online-german-exercises-a1-b2)
 - [Deutsch Lernen](https://www.deutsch-lernen.com/learn-german-online/beginners/summary.php)
 - [German.net Exercises](https://german.net/exercises/)
+- [Duolingo](https://www.duolingo.com/learn)
