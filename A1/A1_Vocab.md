@@ -167,4 +167,36 @@ eg: Hier ist die Rechnung, zahlen Sie zusammen oder getrennt ? = Here is the bil
 - das macht xxxx Euros = that comes to xxx dollars
 - bar = cash<br>
 eg: Wir zahlen heute bar danke = We are paying cash today thank you<br>
+<br>
+
+- die Einladung = Invitation
+- einladen = to invite
+- auf jeden Fall = definitely<br>
+eg: Wir kommen auf jeden Fall = We are definitely coming<br>
+- das Geschenk = Gift
+- schenken = to give
+- feiern = to celebrate<br>
+eg: Möchtest du deinen Geburstag zu Hause feiern ? = Would you like to celebrate your birthday at home ?<br>
+- der Fluss = River
+- das Museum = Museum
+- der Zoo = Zoo
+- das Stadtzentrum = City Centre
+- besuchen = to visit
+- circa = approximately
+- geradeaus = straight forward<br>
+eg: Gehen Sie circa zwanzig Minuten geradeaus = Go staright ahead for approximately 20 minutes<br>
+- die Bushaltestelle = Bus Stop
+- der Bus = Bus
+- Fahren...mit... = Take the....(transportation)<br>
+eg: Fahren Sie mit Bus Nummer 4 = Take the number 4 bus<br>
+- warten = to wait
+- zu Fuß = by foot
+- dauern = takes...(time)<br>
+eg: Wie lange dauert das Konzert ? = How long does the concert last ?<br>
+- die Taxifahrt = Taxi ride
+- die Straße = Street
+- das Taxi = Taxi
+- die Adresse = Adress
+- wiederholen = to repeat
+- alles Gute = Take care
 - 
