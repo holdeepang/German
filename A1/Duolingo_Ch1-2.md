@@ -198,7 +198,8 @@ eg: Wie lange dauert das Konzert ? = How long does the concert last ?<br>
 - das Taxi = Taxi
 - die Adresse = Adress
 - wiederholen = to repeat
-- alles Gute = Take care<br>
+- alles Gute = Take care
+<br>
 
 - Geschichte = History
 - Psychologie = Psychology
