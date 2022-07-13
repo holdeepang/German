@@ -348,4 +348,9 @@ eg: der Nachbar ist nie zu Hause = The neighbour is never at home<br>
 - weich = soft
 - Kopfkissen = Pillow
 - das Bild = Picture / Painting
+<br>
 
+- das Obst = Fruits
+- Lieblingsessen = Favourite Food
+- nichts = nothing
+- 
