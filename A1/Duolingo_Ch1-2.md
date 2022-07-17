@@ -379,4 +379,34 @@ eg: der Nachbar ist nie zu Hause = The neighbour is never at home<br>
 - frisch = fresh
 - hungrig = hungry
 - Flaschen = bottle
+<br>
+
+- Nächte = Nights
+- Nacht = Night
+- Doppelzimmer = Double Room
+- Einzelzimmer = Single Room<br>
+eg: Wir wollen nur eine Nacht bleiben = We want to stay for one night only<br>
+- haben Sie noch frei = still have one availble ?
+- der Schlüssel = Key
+- der Pass = Passport
+- willkommen = welcome
+- nehmen = to take
+- der Strand = Beach
+- der Flughafen = Airport
+- die Bar = Bar<br>
+eg: Gibt es eine Bar in der Nähe = Is there a bar nearby ?<br>
+- Buchladen = Bookstore
+- besuchen = to visit
+- Ausflug = Excursion
+- der Fernseher = TV
+- ruhig = Calm / peaceful / quiet
+- die Rezeption = Reception
+- Sessel = Armchair
+- das Fitnessstuido = Gym
+- die Tür = Door
+- das Fenster = Window
+- funktionieren = to function
+- die Dusche = the Shower
+- kaputt = broken
+- die Uhr = Clock
 - 
