@@ -409,4 +409,5 @@ eg: Gibt es eine Bar in der Nähe = Is there a bar nearby ?<br>
 - die Dusche = the Shower
 - kaputt = broken
 - die Uhr = Clock
+- behinderten = with special needs
 - 
