@@ -410,4 +410,15 @@ eg: Gibt es eine Bar in der Nähe = Is there a bar nearby ?<br>
 - kaputt = broken
 - die Uhr = Clock
 - behinderten = with special needs
+<br>
+
+- das Haus = House
+- zufrieden = satisfied
+- Beamter / Beamtin = Civil Servant
+- die Schildkröte = Turtle
+- feiern = to celebrate
+- reich = rich
+- Geschwister = Siblings
+- Freizeit = free time
+- Küche = Kitchen / cuisine
 - 
