@@ -439,4 +439,18 @@ eg: Gibt es eine Bar in der Nähe = Is there a bar nearby ?<br>
 - Haustiere = Pets
 - Tier = Animal
 - das Dorf = Village
+<br>
+
+- Visum = Visa
+- Flugnummer = Flight Number
+- bleiben...... (time eg: zwei Wochen) = Staying for...... 
+- der Zoll = Customs<br>
+eg: Machen Sie hier Urlaub und wie lange bleiben sie ? = Are you here for vacation and how long are you staying<br>
+- der Kugelschreiber = Pen
+- Moment = Moment
+- das Formular = Form
+- unterschreiben = to sign
+- zum Schalter... = to Counter....
+- verboten = to be prohibited
+- richtig = correct
 - 
