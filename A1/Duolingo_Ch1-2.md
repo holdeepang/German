@@ -453,4 +453,17 @@ eg: Machen Sie hier Urlaub und wie lange bleiben sie ? = Are you here for vacati
 - zum Schalter... = to Counter....
 - verboten = to be prohibited
 - richtig = correct
+- lila = purple
+- grau = grey
+- der Rucksack = Backpack
+- der Koffer = Suitcase
+- schwer = heavy / difficult
+- Farbe = Colour<br>
+eg: Welche Farbe hat dein Rucksack = What color is your backpack<br>
+- die Brille = Glasses
+- die Kamera = Camera
+- Wörterbuch = Dictionary
+- das Schloss = Castle
+- besichtigen = to tour / view / visit
+- Touristen = Tourists
 - 
